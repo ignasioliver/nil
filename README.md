@@ -1,5 +1,5 @@
 # Nil
-Nil stuff
+Check it http://146.185.169.224/
 
 Update the file ``` index.html ``` / add whatever you want and the droplet can easily update it through git  :octocat:
 
